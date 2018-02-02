@@ -1,0 +1,126 @@
+#nav
+{
+	display:block
+	background-color:blue;
+	height:30px;
+	display:block;
+}
+#home
+{
+	height:600px;
+	font-size:15px;
+	text-align:center;
+	display:block;
+	background-color:#000000;
+}
+#about
+{
+	height:600px;
+	font-size:15px;
+	text-align:center;
+	display:block;
+	
+	
+}
+#achievement
+{
+	height:600px;
+	font-size:15px;
+	text-align:center;
+	display:block;
+	
+}
+#gallery
+{
+	height:600px;
+	background-color:#000000;
+	text-align:center;
+	display:block;
+	
+}
+#contact
+{
+	height:600px;
+	font-size:15px;
+	text-align:center;
+	display:block;
+	
+}
+#nav .navbar
+{
+	background-color:#000000;
+
+}
+#nav .navbar-header a
+{
+	font-size:2em;
+	color:#00ffff;
+}
+#nav .container-fluid .nav
+{
+	color:#ffffff;
+}
+.navbar-default .navbar-nav li a:hover
+{
+	color:#ff6600;
+	background-color:#006600;
+	font-size:17px;
+}
+.navbar-default .navbar-nav li a:active 
+{
+	color:#ff7700;
+	background-color:#006600;
+	font-size:17px;
+}
+.img
+{
+	width:60%;
+	height:200px;
+	margin-left:20%;
+	margin-right:20%
+}
+#gallery .image1
+{
+	width:100%;
+	height:500px;
+}
+#gallery .image2
+{
+	width:100%;
+	height:240px;
+}
+#gallery .image3
+{
+	width:100%;
+	height:240px;
+}
+#gallery .image4
+{
+	width:100%;
+	height:500px;
+}
+#achievement .row
+{
+	background-color:#000000;
+}
+#achievement .row img
+{
+	width:30%;
+	float:left;
+	margin-left:3px;
+	margin-right:3px;
+	padding-left:30px;
+}
+#home h2
+{
+	color:#ffffff;
+	font-size:2em;
+}
+body
+{
+	background-color:#808080;
+}
+textarea
+{
+	border-radius:10px;
+}
